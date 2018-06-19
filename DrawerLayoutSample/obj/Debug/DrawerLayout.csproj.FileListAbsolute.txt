@@ -1,0 +1,12 @@
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\bin\Debug\DrawerLayout.dll
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\bin\Debug\DrawerLayout.pdb
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\bin\Debug\DrawerLayout.DrawerLayout.apk
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\bin\Debug\DrawerLayout.DrawerLayout-Signed.apk
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\DrawerLayout.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\DrawerLayout.dll
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\DrawerLayout.pdb
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\android\bin\DrawerLayout.DrawerLayout.apk
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\res\layout\main.xml
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\R.cs.flag
+C:\Users\Administrador.000\Documents\Visual Studio 2015\Projects\DrawerLayout\DrawerLayout\obj\Debug\uploadflags.txt
